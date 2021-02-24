@@ -1,0 +1,95 @@
+---
+title: "Regulamin Zajęć"
+lang: pl
+output:
+  pdf_document: default
+---
+
+Przedmiot: Programowanie strukturalne
+
+Rodzaj zajęć: ćwiczenia
+
+Kierunek: Informatyka
+
+Specjalność: Inżynieria systemów informatycznych
+
+Poziom studiów: studia pierwszego stopnia
+
+Rodzaj studiów: studia stacjonarne
+
+Rok i semestr: rok I, semestr drugi
+
+Rok akademicki: 2020/2021
+
+Prowadzący: dr Piotr Jastrzębski, [piotr.jastrzebski\@uwm.edu.pl](mailto:piotr.jastrzebski@uwm.edu.pl){.email}
+
+Liczba punktów ECTS: 6
+
+## 1. Wymagana forma uczestnictwa w zajęciach.
+
+Od uczestników zajęć wymagane jest wspólne lub samodzielne tworzenie programów w języku C za pomocą środowiska Code:Blocks[^1]. W trakcie zajęć należy przestrzegać zasad BHP. Uczestnicy zajęć powinni we własnym zakresie dbać o bezpieczeństwo danych używanych w aplikacjach. Kod programów wykonanych na podstawie przygotowanych poleceń powinien być systematycznie przesyłany na repozytorium w serwisie Github. Za przesłanie poprawnego kodu do poleceń w ustalonym terminie można otrzymać 1 punkt do oceny końcowej za każdą listę poleceń. Na wybranych zajęciach będzie możliwość otrzymania 1 punktu za aktywność (wykonanie dodatkowych poleceń).
+
+[^1]: Możliwe jest użycie innego środowiska we własnym zakresie.
+
+## 2. Cele kształcenia.
+
+Opanowanie paradygmatu programowania strukturalnego i jego rozpoznawanie na tle innych paradygmatów. Umiejętność stosowania programowania strukturalnego w programach małej i średniej wielkości.
+
+## 3. Efekty kształcenia.
+
+**Wiedza**
+
+-   Student zna konstrukcje programistyczne omawiane na wykładzie: typy strukturalne, typy wskaźnikowe, wskaźniki do struktur, instrukcje alokacji i dealokacji obiektów typów strukturalnych, relację między deklarowaniem wskaźnika a instrukcją alokacji obiektu.
+
+**Umiejętności**
+
+-   Student potrafi napisać program z wykorzystaniem paradygmatu strukturalnego. Student rozumie znaczenie właściwej struktury kodu.
+-   Student potrafi przeprowadzić dekompozycję funkcjonalną zadania i ustrukturyzować kod tworzonego programu
+
+**Kompetencje społeczne**
+
+-   Student docenia rolę precyzji w formułowaniu problemów.
+-   Student jest świadomy konieczności ciągłego doskonalenia swoich umiejętności programistycznych w trakcie swojego przyszłego rozwoju zawodowego.
+
+## 4. Literatura.
+
+1.  Richard Resese, Wskaźniki w języku C. Przewodnik, wyd. Helion, 2014.
+2.  Stephen Prata, Język C. Szkoła programowania, wyd. Helion, 2006.
+3.  Stephen G. Kochan, Język C. Kompendium wiedzy. Wydanie IV, wyd. Helion, 2015.
+4.  Marek Tłuczek, Programowanie w języku C. Ćwiczenia praktyczne. Wydanie II, wyd. Helion, 2011.
+5.  Zed A. Shaw, Programowanie w C. Sprytne podejście do trudnych zagadnień, których wolałbyś unikać (takich jak język C), wyd. Helion, 2016.
+
+## 5. Sposób bieżącej kontroli wyników nauczania.
+
+Podczas wspólnego programowania przeprowadzana jest ustna ocena przygotowania do zajęć. Przewidziane są również dwa kolokwia komputerowe.
+
+## 6. Kolokwium.
+
+Kolokwium jest sprawdzianem wiedzy i umiejętności studenta przeprowadzonym na siódmych i przedostatnich ćwiczeniach (w wyjątkowych sytuacjach termin może ulec zmianie). Polega na przygotowaniu kodu na podstawie otrzymanych poleceń lub innych poleceń związanych z tematyką przedmiotu. Oba kolokwia odbędą się w formie komputerowej. Wyniki kolokwium zostaną ogłoszone w ciągu 7 dni od daty kolokwium w wiadomości wysłanej poprzez system USOS lub innej uzgodnionej formie (w wyjątkowych sytuacjach termin może zostać przedłużony). Ocena kolokwium odbywa się w systemie punktowym w zakresie 0-50 punktów, które są zaliczane do punktacji końcowej.
+
+## 7. Zasady usprawiedliwiania nieobecności na zajęciach.
+
+Nieobecności na zajęciach będą usprawiedliwiane na podstawie usprawiedliwień pisemnych poświadczonych odpowiednim podpisem (ew. brak podpisu musi wynikać z przepisów szczególnych). Informacja o studentach, których liczba nieusprawiedliwionych nieobecności przekracza 3, zostanie przesłana do odpowiedniego dziekanatu.
+
+## 8. Możliwość korzystania z materiałów pomocniczych podczas zaliczenia.
+
+W trakcie kolokwium można korzystać ze wszystkich materiałów, bez komunikacji z innymi osobami. Po kolokwium może nastąpić ustna videoweryfikacja samodzielności rozwiązań.
+
+## 9. Zasada ustalania oceny końcowej zaliczenia przedmiotu.
+
+Zaliczenie ćwiczeń będzie przyznane tym uczestnikom zajęć, którzy uzyskają co najmniej 51 punktów do oceny końcowej. Punktacja do oceny końcowej składa się ze składowych: terminowe przesłanie kodu do repozytorium (max. liczba punktów może być zmienna), punkty za aktywność (max. liczba punktów może być zmienna), dwa kolokwia (każde po max. 50 pkt). Maksymalna liczba punktów do zdobycia to 100 (nadmiarowe punkty nie będą uwzględniane). Ocena końcowa zostanie wyznaczona według następującego wzoru:
+
+-   0 -- 50 pkt -- ndst (2,0)
+-   51 -- 60 pkt -- dst (3,0)
+-   61 -- 70 pkt -- dst+ (3,5)
+-   71 -- 80 pkt -- db (4,0)
+-   81 -- 90 pkt -- db+ (4,5)
+-   91 -- 100 pkt -- bdb (5,0)
+
+Dodatkowo dla osób niespełniających powyższych kryteriów na uzyskanie oceny pozytywnej na koniec semestru odbędzie się kolokwium poprawkowe, gdzie maksymalną będzie ocena dostateczna (3,0). Wcześniej zdobyte punkty nie będą brane pod uwagę.
+
+## 10. Konsultacje.
+
+Aktualne terminy konsultacji dostępne są w systemie USOS i na stronie prowadzącego zajęcia.
+
+Ostatnia aktualizacja pliku: `r Sys.time()`

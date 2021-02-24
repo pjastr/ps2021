@@ -1,0 +1,39 @@
+---
+title: "CodeBlocks - skrócona instrukcja"
+lang: pl
+output:
+  pdf_document: default
+---
+
+Linki: 
+
+* 20.03 z mingw https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
+* 17.12 z mingw https://www.fosshub.com/Code-Blocks-old.html?dwl=codeblocks-17.12mingw-setup.exe
+
+![](c1.png)
+
+![](c2.png)
+
+![](c3.png)
+
+![](c4.png)
+
+![](c5.png)
+
+![](c6.png)
+
+![](c7.png)
+
+
+
+![](c9.png)
+
+![](c10.png)
+
+![](c11.png)
+
+![](c12.png)
+
+![](c13.png)
+
+![](c14.png)

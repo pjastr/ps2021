@@ -1,0 +1,21 @@
+---
+title: "Github Desktop - skrócona instrukcja"
+lang: pl
+output:
+  pdf_document: default
+---
+
+1. Wchodzimy na stronę https://desktop.github.com/
+2. Przeklikujemy instalację
+3. Autoryzacja kontem Github.com
+4. Tworzymy nowe repozytorium lokalnie
+
+![](a1.png)
+
+![](a2.png)
+
+![](a3.png)
+
+![](a4.png)
+
+![](a5.png)

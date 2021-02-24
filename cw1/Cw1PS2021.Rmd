@@ -1,0 +1,39 @@
+---
+title: "Ćwiczenia 1"
+lang: pl
+output:
+  pdf_document: default
+---
+
+**System kontroli wersji - git - na przykładzie Githuba.**
+
+1. Jeśli nie masz, załóż konto w serwisie Github. Jeśli nie chcesz używać prywatnej skrzynki mailowej,
+użyj uniwersyteckiej - więcej informacji [tutaj](http://www.uwm.edu.pl/studenci/uslugi-informatyczne).
+2. Stwórz repozytorium o nazwie PS12345, gdzie zamiast 12345 wpisz swój numer albumu (indeksu).
+**Ustawienia widoczności ustaw jako prywatne.**
+
+Uwaga: jeśli posiadasz dwa numery albumu, wpisz ten powiązany z kierunkiem informatyka.
+
+* Dodaj plik README do repozytorium (może być pusty).
+* W ustawieniach dodaj nowego kolaboratora (współpracownika) użytkownika o nicku `pjastr`. Po kilku
+godzinach sprawdź czy zaproszenie zostało zaakceptowane.
+* Jeśli posiadasz już na swoim profilu archiwum o podane nazwie, dodaj na końcu nazwy 'a'.
+
+# Powtórka z C
+
+3. Zadania ze zbioru do wykonania w trakcie bieżących ćwiczeń:
+
+|  |  | |  |  |
+|---|---|---|---|---|
+| 1.2.1 | 1.2.2 | 1.2.3 | 1.2.4 | 1.2.5 |
+| 1.2.6 | 1.2.7 | 1.2.8 | 1.2.9 | 1.2.10 |
+| 1.2.11 | 1.2.12 |
+
+
+
+Ostatnia aktualizacja pliku: `r Sys.time()`
+
+
+
+
+
